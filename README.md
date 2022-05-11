@@ -5,7 +5,7 @@ This repository shows how to build a image and deploy an Oracle database in Open
 1. Pull down the GitHub Repo from Oracle 
     This repo from an oracle can be used to create multiple different services.
     ```bash
-    git clone https://github.com/osvaldormelo/oracle19cDatabase.git
+    git clone https://github.com/leoevasconcelos/oracle19cDatabase
     ```
 2. Change into the Database Dockerfiles 
     ```bash
